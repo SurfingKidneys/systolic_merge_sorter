@@ -1,0 +1,9 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Luis/Development/git/systolic_merge_sorter/merge_sorter_pkg.vhd" into library xil_defaultlib
+ERROR: [VRFC 10-91] ieee is not declared [C:/Users/Luis/Development/git/systolic_merge_sorter/merge_sorter_pkg.vhd:1]
+ERROR: [VRFC 10-91] std_logic_vector is not declared [C:/Users/Luis/Development/git/systolic_merge_sorter/merge_sorter_pkg.vhd:8]
+ERROR: [VRFC 10-91] std_logic_vector is not declared [C:/Users/Luis/Development/git/systolic_merge_sorter/merge_sorter_pkg.vhd:9]
+ERROR: [VRFC 10-91] ceil is not declared [C:/Users/Luis/Development/git/systolic_merge_sorter/merge_sorter_pkg.vhd:12]
+ERROR: [VRFC 10-1083] near integer ; type conversion expression type cannot be determined uniquely [C:/Users/Luis/Development/git/systolic_merge_sorter/merge_sorter_pkg.vhd:12]
+ERROR: [VRFC 10-91] get_n_init_subseqs is not declared [C:/Users/Luis/Development/git/systolic_merge_sorter/merge_sorter_pkg.vhd:13]
+ERROR: [VRFC 10-1504] unit merge_sorter_pkg ignored due to previous errors [C:/Users/Luis/Development/git/systolic_merge_sorter/merge_sorter_pkg.vhd:3]
+INFO: [VRFC 10-240] VHDL file C:/Users/Luis/Development/git/systolic_merge_sorter/merge_sorter_pkg.vhd ignored due to errors
